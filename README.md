@@ -1,2 +1,2 @@
-# Senac-PTIs
-Todas as Produções Textuais Individuais feitas ao longo do curso e seus documentos
+# Produção Textual Individual
+Repositório criado para armazenar e organizar todos os PTIs do curso de ADS do Senac
